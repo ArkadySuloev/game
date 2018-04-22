@@ -1,0 +1,16 @@
+body {
+  background-color: black;
+}
+
+.container {
+  margin: 100px auto;
+  width: 300px;
+}
+
+.cont {
+  background-color: white;
+  border: 2px solid black;
+  float: left;
+  height: 96px;
+  width: 96px;
+}

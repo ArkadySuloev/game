@@ -1,0 +1,31 @@
+body {
+	background-color: black;
+}
+.contone {
+	width: 100px;
+	height: 100px;
+	box-shadow: 0 0 5px black;
+	background-color: white;
+	display: inline-flex;
+}
+.conteiner {
+	width: 310px;
+	height: 310px;
+	margin: 100px auto;
+	background-color: white;
+	border-radius: 5px;
+}
+.contthree {
+	width: 100px;
+	height: 100px;
+	box-shadow: 0 0 5px black;
+	background-color: white;
+	display:inline-flex;
+}
+.conttwo {
+	width: 100px;
+	height: 100px;
+	box-shadow: 0 0 5px black;
+	background-color: white;
+	display: inline-flex;
+}
